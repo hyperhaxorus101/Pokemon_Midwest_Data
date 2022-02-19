@@ -145,6 +145,9 @@ Glaceon,Ice,
 Mammoswine,Ice,Ground
 Froslass,Ice,Ghost
 Rotom,Electric,Ghost
+Uxie,Psychic,
+Mesprit,Psychic,
+Azelf,Psychic,
 Oshawott,Water,
 Dewott,Water,
 Samurott,Water,
@@ -213,6 +216,7 @@ Pumpkaboo,Ghost,Grass
 Gourgeist,Ghost,Grass
 Noibat,Flying,Dragon
 Noivern,Flying,Dragon
+Xerneas,Fairy,
 Cutiefly,Bug,Fairy
 Ribombee,Bug,Fairy
 Rockruff,Rock,
