@@ -1,8 +1,8 @@
 Name,Type 1,Type 2
 Rattata,Normal,
 Raticate,Normal,
-Ekans,Poison,
-Arbok,Poison,
+Ekans-R,Poison,Water
+Arbok-R,Poison,Water
 Pikachu,Electric,
 Raichu,Electric,
 Sandshrew,Ground,
@@ -16,8 +16,8 @@ Golduck,Water,
 Poliwag,Water,
 Poliwhirl,Water,
 Poliwrath,Water,Fighting
-Ponyta,Fire,
-Rapidash,Fire,
+Ponyta-R,Fire,Steel
+Rapidash-R,Fire,Steel
 Magnemite,Electric,Steel
 Magneton,Electric,Steel
 Grimer,Poison,
@@ -33,7 +33,7 @@ Weezing,Poison,
 Jynx,Ice,Psychic
 Magikarp,Water,
 Gyarados,Water,Flying
-Lapras,Water,Ice
+Lapras-R,Dragon,Ice
 Eevee,Normal,
 Vaporeon,Water,
 Jolteon,Electric,
@@ -73,7 +73,6 @@ Delibird,Ice,Bird
 Stantler,Normal,
 Smoochum,Ice,Psychic
 Miltank,Normal,
-Celebi,Psychic,Grass
 Zigzagoon,Normal,
 Linoone,Normal,
 Wurmple,Bug,
@@ -84,8 +83,6 @@ Dustox,Bug,Poison
 Seedot,Grass,
 Nuzleaf,Grass,Dark
 Shiftry,Grass,Dark
-Surskit,Bug,Water
-Masquerain,Bug,Flying
 Shroomish,Grass,
 Breloom,Grass ,Fighting
 Nincada,Bug,Ground
@@ -145,9 +142,9 @@ Glaceon,Ice,
 Mammoswine,Ice,Ground
 Froslass,Ice,Ghost
 Rotom,Electric,Ghost
-Uxie,Psychic,
-Mesprit,Psychic,
-Azelf,Psychic,
+Uxie -R,Psychic,Grass
+Mesprit -R,Psychic,Water
+Azelf -R,Psychic,Ice
 Oshawott,Water,
 Dewott,Water,
 Samurott,Water,
@@ -181,6 +178,9 @@ Amoonguss,Grass,Poison
 Klink,Steel,
 Klang,Steel,
 Klinklang,Steel,
+Klink-R,Steel,Ghost
+Klang-R,Steel,Ghost
+Klinklang-R,Steel,Ghost
 Tynamo,Electric,
 Eelektrik,Electric,
 Eelektross,Electric,
@@ -217,6 +217,7 @@ Gourgeist,Ghost,Grass
 Noibat,Flying,Dragon
 Noivern,Flying,Dragon
 Xerneas,Fairy,
+,,
 Cutiefly,Bug,Fairy
 Ribombee,Bug,Fairy
 Rockruff,Rock,
@@ -228,12 +229,17 @@ Morelull,Grass,Fairy
 Shiinotic,Grass,Fairy
 Salandit,Poison,Fire
 Salazzle,Poison,Fire
+Passimian ,Fighting,
+Passimian-R,Fighting,Flying
 Sandyghast,Ghost,Ground
 Palossand,Ghost,Ground
-Dhelmise,Ghost,Grass
+Dhelmise-R,Rock,Steel
+Marshadow,Fighting,Ghost
 Blipbug,Bug,
 Dottler,Bug,Psychic
 Orbeetle,Bug,Psychic
+Wooloo-R,Steel,
+Dubwool-R,Steel,
 Rolycoly,Rock,
 Carkol,Rock,Fire
 Coalossal,Rock,Fire
