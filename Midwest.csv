@@ -70,6 +70,8 @@ Ursaring,Normal,
 Swinub,Ice,Ground
 Piloswine,Ice,Ground
 Delibird,Ice,Bird
+Houndour,Dark,Fire
+Houndoom,Dark,Fire
 Stantler,Normal,
 Smoochum,Ice,Psychic
 Miltank,Normal,
@@ -80,9 +82,6 @@ Silcoon,Bug,
 Beautifly,Bug,Flying
 Cascoon,Bug,
 Dustox,Bug,Poison
-Seedot,Grass,
-Nuzleaf,Grass,Dark
-Shiftry,Grass,Dark
 Shroomish,Grass,
 Breloom,Grass ,Fighting
 Nincada,Bug,Ground
