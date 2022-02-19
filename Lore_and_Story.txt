@@ -8,7 +8,6 @@ Koffing/Weezing
 Spinarak/Ariados
 Snubbull/Granbull
 Dustox
-Seedot/Nuzleaf/Shiftry
 Corphish/Crawdaunt
 Stunky/Skuntank
 Scraggy/Scrafty
